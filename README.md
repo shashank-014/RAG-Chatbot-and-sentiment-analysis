@@ -1,7 +1,6 @@
 # RAG-Chatbot-and-sentiment-analysis
 
-📌 Repository: AI for Industrial Operations
-This repository contains two applied AI/NLP projects demonstrating how machine learning and Generative AI can improve knowledge access, issue detection, and operational efficiency in industrial and enterprise software environments.
+📌 This repository contains two applied AI/NLP projects demonstrating how machine learning and Generative AI can improve knowledge access, issue detection, and operational efficiency in industrial and enterprise software environments.
 
 📁 Project 1: Semiconductor Technical Knowledge Smart-Bot (RAG)
 🔍 Overview
