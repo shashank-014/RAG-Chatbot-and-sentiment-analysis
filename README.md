@@ -2,7 +2,8 @@
 
 📌 This repository contains two applied AI/NLP projects demonstrating how machine learning and Generative AI can improve knowledge access, issue detection, and operational efficiency in industrial and enterprise software environments.
 
-📁 Project 1: Semiconductor Technical Knowledge Smart-Bot (RAG)
+📁 Project 1:
+Semiconductor Technical Knowledge Smart-Bot (RAG)
 🔍 Overview
 This project implements a Retrieval-Augmented Generation (RAG) based Smart-Bot that enables engineers to query semiconductor manufacturing knowledge using natural language.
 It simulates how engineering teams can access process, yield, and testing documentation without manually searching large document repositories.
@@ -26,6 +27,7 @@ Feedback-driven answer refinement
 Integration with operational logs and monitoring systems
 
 📁 Project 2A: Sentiment Analysis of Technical Support Logs
+
 🔍 Overview
 This project applies Natural Language Processing (NLP) to classify sentiment in technical support logs and issue-related text.
 The goal is to automatically identify negative issues, detect recurring problems, and support prioritization in enterprise software environments.
